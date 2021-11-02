@@ -6,4 +6,3 @@
     <h3>Welcome to Express CRUD</h3>
   </div>
 </template>
-
